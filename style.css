@@ -91,14 +91,7 @@
 
 .animate-feature-in {
   /* TODO: Create animation for adding a feature */
-  /* animation: animate-feature-in_kf 1s ease-in-out 1; */
 }
-
-/* @keyframes animate-feature-in_kf {
-  0% {
-    transform: translate();
-  }
-} */
 
 .animate-feature-out {
   /* TODO: Create animation for removing a feature */
